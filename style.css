@@ -1,0 +1,43 @@
+body{
+    background: #68b1ce solid;
+    padding: 0px;
+    margin: 0px;
+}
+
+#row{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#home_page{
+    background-color: #abe79d solid;
+    top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 25vh;
+    width: 50vw;
+    text-align: center;
+}
+#login_home_page{
+    background-color: #7e76d1 solid;
+    top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 30vh;
+    width: 50vw;
+    text-align: center;
+}
+#register_home_page{
+    background-color: #f093bb solid;
+    top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 45vh;
+    width: 50vw;
+}
